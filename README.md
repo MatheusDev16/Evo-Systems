@@ -26,7 +26,7 @@ Interface responsiva e amigável
 Tratamento de erros e feedback ao usuário
 
 📸 Capturas de Tela:
-![WhatsApp Image 2025-05-09 at 22 54 51](https://github.com/user-attachments/assets/62bb2d5c-135f-4299-b4c2-6d45d3a9fe41)
+![WhatsApp Image 2025-05-09 at 22 55 57](https://github.com/user-attachments/assets/281c066a-619c-4e9d-a790-5eb4f340a2b1)
 ![WhatsApp Image 2025-05-09 at 22 55 57 (1)](https://github.com/user-attachments/assets/47754853-6dd4-470a-94dc-76b0de2490e9)
 ![WhatsApp Image 2025-05-09 at 22 55 16](https://github.com/user-attachments/assets/cfbcb1f0-a50e-458c-9f37-4dee8651dfd9)
 
