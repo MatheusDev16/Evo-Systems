@@ -8,7 +8,7 @@ Linguagem de Programação: Dart
 
 Framework: Flutter
 
-API de Filmes: The Movie Database (TMDb)]
+API de Filmes: The Movie Database (TMDb)
 
 Controle de Versão: Git
 
